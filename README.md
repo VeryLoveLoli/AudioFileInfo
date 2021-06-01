@@ -1,3 +1,3 @@
 # AudioFileInfo
 
-A description of this package.
+音频文件读写信息
